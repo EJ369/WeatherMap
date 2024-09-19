@@ -1,8 +1,8 @@
-# weather_map
+# Weather Map
 
-A realtime weather app
+Weather MAP is a real-time weather application that displays weather conditions for various locations on an interactive map. Each location is marked with a weather-specific marker that provides detailed weather information such as temperature, conditions, and city name. The app allows users to explore live weather data across different regions, offering an intuitive, map-based way to monitor weather patterns globally.
 
-## Getting Started
+<!--## Getting Started
 
 This project is a starting point for a Flutter application.
 
@@ -13,4 +13,4 @@ A few resources to get you started if this is your first Flutter project:
 
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+samples, guidance on mobile development, and a full API reference. -->
