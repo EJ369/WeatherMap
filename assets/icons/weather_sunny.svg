@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="iso-8859-1"?><!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 512 512" xml:space="preserve">
+<rect x="237.714" style="fill:#FF9900;" width="36.571" height="109.714" />
+    <g>
+	
+		<rect x="58.917" y="95.488" transform="matrix(-0.7071 -0.7071 0.7071 -0.7071 113.773 274.6736)" style="fill:#FFDB2D;" width="109.712" height="36.571" />
+        <rect y="237.714" style="fill:#FFDB2D;" width="109.714" height="36.571" />
+
+        <rect x="95.495" y="343.37" transform="matrix(-0.7071 -0.7071 0.7071 -0.7071 -87.3526 760.2691)" style="fill:#FFDB2D;" width="36.571" height="109.712" />
+</g>
+    <g>
+	<rect x="237.714" y="402.286" style="fill:#FF9900;" width="36.571" height="109.714" />
+
+        <rect x="343.37" y="379.936" transform="matrix(-0.7071 -0.7071 0.7071 -0.7071 398.2287 961.3954)" style="fill:#FF9900;" width="109.712" height="36.571" />
+        <rect x="402.286" y="237.714" style="fill:#FF9900;" width="109.714" height="36.571" />
+
+        <rect x="379.935" y="58.908" transform="matrix(-0.7071 -0.7071 0.7071 -0.7071 599.3616 475.7908)" style="fill:#FF9900;" width="36.571" height="109.712" />
+</g>
+    <path style="fill:#FFE981;" d="M256,79.238c-97.467,0-176.762,79.295-176.762,176.762S158.533,432.762,256,432.762
+	S432.762,353.467,432.762,256S353.467,79.238,256,79.238z" />
+    <path style="fill:#FFDB2D;" d="M256,432.762c97.467,0,176.762-79.295,176.762-176.762S353.467,79.238,256,79.238" />
+    <path style="fill:#FFFFFF;" d="M195.352,280.381c3.059,30.802,29.043,54.857,60.648,54.857s57.589-24.055,60.648-54.857H195.352z" />
+    <g>
+	<circle style="fill:#804D00;" cx="323.048" cy="225.524" r="18.286" />
+        <circle style="fill:#804D00;" cx="188.952" cy="225.524" r="18.286" />
+</g>
+</svg>
