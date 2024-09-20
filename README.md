@@ -27,6 +27,19 @@
 
 <hr>
 
+<!-- Tech Stack -->
+<h2>Skills and Technologies Used</h2>
+<ul>
+  <li>Programming Language: Dart</li>
+  <li>Framework: Flutter</li>
+  <li>State Management: Provider</li>
+  <li>UI/UX Design: Flutter Widgets, Material Design</li>
+  <li>Version Control: Git & GitHub</li>
+  <li>Other tools: Open Meteo API</li>
+</ul>
+
+<hr>
+
 <h2>Installation</h2>
 
 <h3>Prerequisites</h3>
@@ -51,6 +64,8 @@ cd weather_map</code></pre>
     <li><a href="https://pub.dev/packages/flutter_map" target="_blank">flutter_map</a> - For creating interactive maps.</li>
     <li><a href="https://pub.dev/packages/http" target="_blank">http</a> - For making API calls to fetch weather data.</li>
     <li><a href="https://pub.dev/packages/geolocator" target="_blank">geolocator</a> - For retrieving the user's location.</li>
+    <li><a href="https://pub.dev/packages/latlong2" target="_blank">Geo Meteo</a> - For getting location coordinates.</li>
+    <li><a href="https://open-meteo.com/" target="_blank">Geo Meteo</a> - For fetching weather details.</li>
 </ul>
 
 </body>
