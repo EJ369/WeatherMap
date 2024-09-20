@@ -39,8 +39,8 @@
 <h3>Steps to Install</h3>
 <ol>
     <li>Clone the repository:</li>
-    <pre><code>git clone https://github.com/yourusername/weather-map-app.git
-cd weather-map-app</code></pre>
+    <pre><code>git clone https://github.com/EJ369/WeatherMap.git
+cd weather_map</code></pre>
 </ol>
 
 <hr>
