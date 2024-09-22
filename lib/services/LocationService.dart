@@ -55,11 +55,3 @@ class LocationService {
     return LatLng(lastLatitude, lastLongitude);
   }
 }
-
-class Result<T> {
-  final LatLng? data;
-  final String? error;
-
-  Result.success(this.data) : error = null;
-  Result.error(this.error) : data = null;
-}
